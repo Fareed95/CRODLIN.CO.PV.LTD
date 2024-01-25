@@ -1,0 +1,1 @@
+print("heloo ji assalamulalaikum")
